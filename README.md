@@ -1,5 +1,7 @@
 # Jack-O-Lantern (3d printed, powered by USB)
 
+![black](./gallery/IMG_1646.jpeg)
+
 ## Parts:
 
 * COB [LED light](https://www.aliexpress.us/item/3256807134620275.html?spm=a2g0o.order_list.order_list_main.80.6a891802asZcih&gatewayAdapt=glo2usa)
@@ -15,5 +17,6 @@
 * For the LED to shine through the patterns, I originally had them completely cut out, and it was terrible. Then I carve it down to 0.2mm, just one layer. It worked perfectly for orange filament, but not black. So I decided to cur the patterns out and laminate a piece of orange paper from inside.
 * Since all pieces are friction fitted together, I had to adjust the dimensions of the tabs by trial and error. Eventually, a size difference of 0.6mm between the tabs and the notches worked well for my black filament. However, it was just a tad too big for my orange filament. So I parameterized it in Fusion 360, so that I can simply change one value when switching filaments. It turned out 0.4mm (0.2mm on either side) works well for this particular filament.
 
-## Downloads
-Find under this folder the `.f3d` file that you can open in fusion 360.
+## Downloads and gallery
+* Find under this folder the `.f3d` file that you can open in fusion 360.
+* [Here's](./gallery/) the gallery
