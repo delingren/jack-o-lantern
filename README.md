@@ -4,10 +4,10 @@
 
 ## Parts:
 
-* COB [LED light](https://www.aliexpress.us/item/3256807134620275.html?spm=a2g0o.order_list.order_list_main.80.6a891802asZcih&gatewayAdapt=glo2usa)
+* COB LED light [AliExpress](https://www.aliexpress.us/item/3256807134620275.html) | [Amazon](https://www.amazon.com/dp/B07DHB13J4)
+* USB-C breakout board [AliExpress](https://www.aliexpress.us/item/3256809276708466.html) | [Amazon](https://www.amazon.com/dp/B0F2S1K5X8)
 * 22 ohm resistor (or similar value)
-* USB-C [breakout board](https://www.amazon.com/dp/B0F2S1K5X8?ref=ppx_yo2ov_dt_b_fed_asin_title)
-* Orange vellum paper (optional)
+* Orange vellum paper (if you print black)
 * Double sides tape, super glue, paper glue, hot glue and glue gun
 * Soldering iron and tin
 * 3D printer
