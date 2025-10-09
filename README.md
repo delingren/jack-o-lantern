@@ -43,5 +43,5 @@ There isn't much to it once you have 3d printed everything.
 
 ## Downloads and gallery
 * Find under this folder the `.f3d` file that you can open in fusion 360.
-* Find under [`stils`](./stls/) for STLs. I created them for *my* orange and black filaments respectively. I.e. with tolerance set to 0.3 for black and 0.2 for orange. This may not work for your filament. Also, the black STLs have the patterns hollowed out, but not orange.
+* Find under [`stls`](./stls/) for STLs. I created them for *my* orange and black filaments respectively. I.e. with tolerance set to 0.3 for black and 0.2 for orange. This may not work for your filament. Also, the black STLs have the patterns hollowed out, but not orange.
 * [Here's](./gallery/) the gallery
