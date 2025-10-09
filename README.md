@@ -4,13 +4,14 @@
 
 ## Parts:
 
+* Soldering iron and tin
+* 3D printer
 * COB LED light [AliExpress](https://www.aliexpress.us/item/3256807134620275.html) | [Amazon](https://www.amazon.com/dp/B07DHB13J4)
 * USB-C breakout board [AliExpress](https://www.aliexpress.us/item/3256809276708466.html) | [Amazon](https://www.amazon.com/dp/B0F2S1K5X8)
 * 22 ohm resistor (or similar value)
 * Orange vellum paper (if you print black)
-* Double sides tape, super glue, paper glue, hot glue and glue gun
-* Soldering iron and tin
-* 3D printer
+* Double sided tape, super glue, paper glue, 
+* Optinal: hot glue and glue gun
 
 ## Steps
 
@@ -32,7 +33,7 @@ There isn't much to it once you have 3d printed everything.
 
 
 ## Notes:
-* The LED I have is rated 1W at 3V. I tried to power it with 5V and it got too hot too soon. So I added a 22 ohm resistor. The voltage is down to just about 3V and the current is about 90 mA. Not quite 1W but bright enough and the LED stays cool.
+* The LED I have is rated 1W at 3V. I wanted to use a 5V power source. So I added a 22 ohm resistor. The voltage is down to just about 3V and the current is about 90 mA. Not quite 1W but bright enough and the LED stays cool.
 * I used a USB C breakout board as the power suppy. It has a couple of 5.1K resistors to trigger 5V so that it'd work with a PD charger in addition to basic dumb chargers. If you use a dumb USB C breakout board, it'll only work with a dumb charger. All USB-A chargers are dumb.
 * The cube is printed in 7 pieces (one for the stem) and friction fitted together. If you don't want to fine tune the dimensions, make the gap big enough and use some hot glue.
 * For the LED to shine through the patterns, I originally had them completely cut out, and it was terrible. Then I carve it down to 0.2mm, just one layer. It worked perfectly for orange filament, but not black. So I decided to cur the patterns out and laminate a piece of orange paper from inside.
