@@ -30,7 +30,7 @@ There isn't much to it once you have 3d printed everything.
 
 3. Super glue the stem and the lid together. Hot glue doesn't work as well. B7000 works fine too.
 
-
+![lid](./pics/IMG_1663.jpeg)
 
 ## Notes:
 * The LED I have is rated 1W at 3V. I wanted to use a 5V power source. So I added a 22 ohm resistor. The voltage is down to just about 3V and the current is about 90 mA. Not quite 1W but bright enough and the LED stays cool.
